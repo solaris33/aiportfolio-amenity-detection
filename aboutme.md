@@ -4,7 +4,7 @@ title: About me
 subtitle: 성장을 즐기는 AI Engineer 홍길동입니다.
 ---
 
-안녕하세요. 성장을 즐기는 AI Engineer 홍길동입니다.저는 다음과 같은 스킬을 가지고 있습니다.
+안녕하세요. 성장을 즐기는 AI Engineer 홍길동입니다. 저는 다음과 같은 스킬을 가지고 있습니다.
 
 - 최신 Object Detection 모델(SSD, Faster R-CNN, CenterNet)에 대한 이해 및 활용
 - TensorFlow를 이용한 Custom Dataset에 대한 Object Detection 프로젝트 진행
